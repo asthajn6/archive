@@ -1,5 +1,3 @@
-package com.coding.problems;
-
 import java.util.HashSet;
 
 public class ContainsDuplicateProblem {
