@@ -1,5 +1,3 @@
-package com.coding.problems;
-
 import java.util.HashMap;
 
 public class TwoSumProblem {
